@@ -8,3 +8,5 @@ Figure 2: KNIME workflow for data input, insertion of a linear correlation routi
 Figure 3: KNIME workflow taking input for variation of thresholds and data output from Figure 2 for use in a machine learning model.
 
 The CSV file entitled "Features_GA_LC.csv" is a list of all features with their counts as selected solely by the genetic algorithm as well as after running both the genetic algorithm and linear correlation routines. 
+
+The CSV file entitled "70% with linear correlation increments of 1000 after GA and LC.csv" contains prediction data of the machine learning model for each compound's inhibitory activity at various Puncta count thresholds.
